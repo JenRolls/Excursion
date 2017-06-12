@@ -53,3 +53,13 @@ a:-webkit-any-link {
     text-decoration-style: initial;
     text-decoration-color: initial;
 }
+p {
+  display: block;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+}
+.footer {
+  text-align: right;
+}
