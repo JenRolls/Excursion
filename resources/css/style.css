@@ -21,3 +21,6 @@ body{
   text-align: center;
   background-color: black;
 }
+video {
+  object-fit: contain;
+}
