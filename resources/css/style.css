@@ -31,3 +31,7 @@ h2 {
 h2 {
 display: block;
 }
+p {
+  color: grey;
+  font-size: 21px;
+}
